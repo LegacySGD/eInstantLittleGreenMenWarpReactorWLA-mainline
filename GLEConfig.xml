@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<family code="2156" desc="Lottery Game" organizationName="Interactive" studio="crdc">
+	<game name="Little Green Men Warp Reactor WLA" version="1.0.11" gameengineversion="2" gamelogicversion="1.0"
+		  number="0" 
+		  jackpotid=""
+		  gametype="L"  
+		  loadprevstate="N" 
+		  numberGenerator="RNG" 
+		  betMultipliers="10,50,100,200,300,500,1000,2000,3000"
+		  spots=""
+		  productId="1" 
+		  gamegroup="eGames" 
+		  languages="en,en_US,nb_NO,pl_PL,nl_NL" 
+		  skbPlatformVersion="1.4.0"
+		  merchandisePrize="N"
+		  stateful="N">
+
+		<!-- ZER -->
+		<!--<paymodel modelid="300-2156-099" revealId="2156" revealVersionId="2156"
+				  confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+				  mincoins="0" cointhreshold="0"
+				  name="Little Green Men Warp Reactor WLA : 300-2156-099"
+				  hibethold="7" lobethold="7"
+				  hibetsd="13.34" lobetsd="14.36" fixedminmax="Y" maxcoins="1000"/>
+
+		<paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2156-099" />
+		<paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2156-099" />-->
+
+		<!-- RGS COM -->
+		<!--<paymodel modelid="300-2156-001" revealId="2156" revealVersionId="2156"
+				  confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+				  mincoins="0" cointhreshold="0"
+				  name="Little Green Men Warp Reactor WLA : 300-2156-001"
+				  hibethold="7" lobethold="7"
+				  hibetsd="13.34" lobetsd="14.36" fixedminmax="Y" maxcoins="1000"/>
+
+		<paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2156-001" />
+		<paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2156-001" />-->
+
+		<!-- VA -->
+		<!--<paymodel modelid="300-2156-002" revealId="2156" revealVersionId="2156"
+				  confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+				  mincoins="0" cointhreshold="0"
+				  name="Little Green Men Warp Reactor WLA : 300-2156-002"
+				  hibethold="7" lobethold="7"
+				  hibetsd="13.34" lobetsd="14.36" fixedminmax="Y" maxcoins="1000"/>
+
+		<paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2156-002" />
+		<paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2156-002" />-->
+
+		<!-- GA -->
+		<paymodel modelid="300-2156-003" revealId="4356" revealVersionId="4356"
+				  confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+				  mincoins="0" cointhreshold="0"
+				  name="Little Green Men Warp Reactor WLA : 300-2156-003"
+				  hibethold="7" lobethold="7"
+				  hibetsd="13.34" lobetsd="14.36" fixedminmax="Y" maxcoins="1000"/>
+
+		<paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2156-003" />
+		<paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2156-003" />
+
+		<!-- NT -->
+		<paymodel modelid="300-2156-004" revealId="4356" revealVersionId="4350"
+				  confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+				  mincoins="0" cointhreshold="0"
+				  name="Little Green Men Warp Reactor WLA : 300-2156-004"
+				  hibethold="25" lobethold="25"
+				  hibetsd="13.34" lobetsd="14.36" fixedminmax="Y" maxcoins="1000"/>
+
+		<paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2156-004" />
+		<paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2156-004" />
+
+		<!-- RI -->
+		<paymodel modelid="300-2156-005" revealId="4356" revealVersionId="4350"
+				  confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+				  mincoins="0" cointhreshold="0"
+				  name="Little Green Men Warp Reactor WLA : 300-2156-005"
+				  hibethold="15.00" lobethold="15.00"
+				  hibetsd="13.34" lobetsd="14.36" fixedminmax="Y" maxcoins="1000"/>
+
+		<paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2156-005" />
+		<paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2156-005" />
+
+		<!-- PLT 1zl, 2zl, 5zl, 10zl, 20zl & 30zl -->
+		<paymodel modelid="300-2156-006" revealId="4356" revealVersionId="4350"
+				  confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+				  mincoins="0" cointhreshold="0"
+				  name="Little Green Men Warp Reactor WLA : 300-2156-006"
+				  hibethold="18" lobethold="18"
+				  hibetsd="13.34" lobetsd="14.36" fixedminmax="Y" maxcoins="1000"/>
+
+		<paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2156-006" />
+		<paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2156-006" />
+
+		<!-- NLO €0.10, €0.50, €1, €2, €3, €5, €10 & €20 -->
+		<paymodel modelid="300-2156-007" revealId="4356" revealVersionId="4350"
+				  confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+				  mincoins="0" cointhreshold="0"
+				  name="Little Green Men Warp Reactor WLA : 300-2156-007"
+				  hibethold="15.00" lobethold="15.00"
+				  hibetsd="13.34" lobetsd="14.36" fixedminmax="Y" maxcoins="1000"/>
+
+		<paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2156-007" />
+		<paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2156-007" />
+
+        <denom currencycode="EUR" amount="0.01"/>
+		<denom currencycode="NOK" amount="0.01"/>
+		<denom currencycode="PLN" amount="0.01,0.05"/>
+		<denom currencycode="USD" amount="0.01,0.02"/>
+	</game>
+</family>
